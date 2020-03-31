@@ -1,0 +1,4 @@
+
+var someAdjective= "so cool";
+var myStr = "Learning to code is ";
+ myStr += someAdjective;
